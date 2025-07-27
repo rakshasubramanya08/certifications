@@ -21,7 +21,7 @@ Welcome! This repository is a curated list of my personal and practice projects 
 - **⏱️ Pomodoro Timer** – A minimal web-based Pomodoro timer built with HTML, CSS, and JavaScript. Helps manage 25-minute focus sessions with 5-minute breaks. Inspired by a [GeeksforGeeks tutorial](https://www.geeksforgeeks.org/javascript/create-a-pomodoro-timer-using-html-css-and-javascript/).  
   🔗 [Live Demo](https://rakshasubramanya08.github.io/pomodoro_Timer/)
 
-- **⌨️ Key Logger** – A simple web app that captures and displays user keystrokes in real time using JavaScript `keydown` events. Referenced from a [YouTube tutorial by Imvajeed](https://www.youtube.com/watch?v=3u1_5tKq4UA) and featured in his [GitHub repo](https://github.com/Imvajeed/js-projects/tree/main/key-logger).  
+- **⌨️ [Key Logger](https://github.com/rakshasubramanya08/Key_logger)** – A simple web app that captures and displays user keystrokes in real time using JavaScript `keydown` events. Referenced from a [YouTube tutorial by Imvajeed](https://www.youtube.com/watch?v=3u1_5tKq4UA) and featured in his [GitHub repo](https://github.com/Imvajeed/js-projects/tree/main/key-logger).  
   🔗 [Live Demo](https://rakshasubramanya08.github.io/Key_logger/)
 
 
