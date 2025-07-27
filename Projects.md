@@ -18,7 +18,7 @@ Welcome! This repository is a curated list of my personal and practice projects 
   A responsive frontend shopping cart built with HTML, CSS, and JavaScript. Users can view products, modify quantities, and see dynamic price updates. Referenced from a [YouTube tutorial by Imvajeed](https://www.youtube.com/watch?v=FIfYTaQS_NA) and featured in [Imvajeed's GitHub projects](https://github.com/Imvajeed/js-projects).  
   🔗 [Live Demo](https://rakshasubramanya08.github.io/E-cart-/)
 
-- **⏱️ Pomodoro Timer** – A minimal web-based Pomodoro timer built with HTML, CSS, and JavaScript. Helps manage 25-minute focus sessions with 5-minute breaks. Inspired by a [GeeksforGeeks tutorial](https://www.geeksforgeeks.org/javascript/create-a-pomodoro-timer-using-html-css-and-javascript/).  
+- **⏱️ [Pomodoro Timer](https://github.com/rakshasubramanya08/pomodoro_Timer)** – A minimal web-based Pomodoro timer built with HTML, CSS, and JavaScript. Helps manage 25-minute focus sessions with 5-minute breaks. Inspired by a [GeeksforGeeks tutorial](https://www.geeksforgeeks.org/javascript/create-a-pomodoro-timer-using-html-css-and-javascript/).  
   🔗 [Live Demo](https://rakshasubramanya08.github.io/pomodoro_Timer/)
 
 - **⌨️ [Key Logger](https://github.com/rakshasubramanya08/Key_logger)** – A simple web app that captures and displays user keystrokes in real time using JavaScript `keydown` events. Referenced from a [YouTube tutorial by Imvajeed](https://www.youtube.com/watch?v=3u1_5tKq4UA) and featured in his [GitHub repo](https://github.com/Imvajeed/js-projects/tree/main/key-logger).  
