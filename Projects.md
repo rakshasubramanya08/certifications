@@ -8,6 +8,9 @@ Welcome! This repository is a curated list of my personal and practice projects 
 - **[Job Application Portal](https://github.com/rakshasubramanya08/Jop-Portal-App)**
 Developed a full-stack web portal that allows candidates to apply for jobs by submitting personal details, CV, cover letter, and other documents. The system validates user input, handles secure file uploads, and automates email notifications with attachments to HR. The frontend is built with React.js for interactive UI, while the backend uses Node.js, Express, and Multer for API and file handling, integrated with Nodemailer for email delivery. Implemented a country dropdown using the REST Countries API and ensured GDPR-style data processing compliance with a Terms & Conditions popup.
 
+- **[Weather App (Full-Stack Web Application)](https://github.com/rakshasubramanya08/weather-app-full-stack)**
+Built a responsive full-stack weather application that fetches real-time weather data based on user-inputted city names. The frontend is implemented with React.js, providing a clean UI for searching and displaying weather conditions. The backend is powered by Node.js and Express, which securely handles API requests and integrates with the OpenWeatherMap API for live data. The app is structured for scalability with separate frontend and backend, and supports deployment-ready configuration.
+
 ## ⚙️ JavaScript Projects
 
 - **🎬 [Custom Video Player](https://github.com/rakshasubramanya08/video_play)**  
