@@ -4,6 +4,10 @@ Welcome! This repository is a curated list of my personal and practice projects 
 
 ---
 
+## Fullstack web apps:
+- **[Job Application Portal](https://github.com/rakshasubramanya08/Jop-Portal-App)**
+Developed a full-stack web portal that allows candidates to apply for jobs by submitting personal details, CV, cover letter, and other documents. The system validates user input, handles secure file uploads, and automates email notifications with attachments to HR. The frontend is built with React.js for interactive UI, while the backend uses Node.js, Express, and Multer for API and file handling, integrated with Nodemailer for email delivery. Implemented a country dropdown using the REST Countries API and ensured GDPR-style data processing compliance with a Terms & Conditions popup.
+
 ## ⚙️ JavaScript Projects
 
 - **🎬 [Custom Video Player](https://github.com/rakshasubramanya08/video_play)**  
